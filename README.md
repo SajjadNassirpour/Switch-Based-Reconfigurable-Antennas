@@ -10,8 +10,8 @@ These codes compare the performance of our proposed approach with MMSE, Analog b
 
 Note: In each folder, you need to run "Main_Running_File.m" to get the results.
 
-#### Sajjad Nassirpour     Alireza Vahid
+#### Sajjad Nassirpour and  Alireza Vahid
 #### Electrical Engineering at University of Colorado Denver
 
-#### Agrim Gupta     Dinesh Bharadia
+#### Agrim Gupta and Dinesh Bharadia
 #### Electrical and Computer Engineering at the University of California, San Diego
