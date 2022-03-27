@@ -1,12 +1,12 @@
-## Efficient Signal Enhancement with Switch-Based Reconfigurable Antennas
+## Power-Efficient Analog Front-End Interference Suppression with Binary Antennas
 
 These codes simulate the results of the paper in MATLAB. They include the following results:
 
 ### Real-valued channels based on Rayleigh fading model
-These codes evaluate the results that are depicted in Fig.3, Table I, and Fig.4.
+These codes evaluate the results that are depicted in Fig.5, Fig. 7, Fig. 8, and Table IV.
 
-### Real-world complex channels based on ray-tracing model
-These codes compare the performance of our proposed approach with MMSE, Analog beamforming, Analog beamforming + beamnulling, and TDMA + Analog beamforming under real-world complex channels. Specifically, these codes represent the results of Fig. 5, Fig. 6, and Fig. 7 in the paper. 
+### Complex-valued channels based on ray-tracing model
+These codes represent the comparison results in Fig. 6 to compare the preformance of our method with latiice-based beamforming, WLLS, BIS, and digital beamforming. 
 
 Note: In each folder, you need to run "Main_Running_File.m" to get the results.
 
