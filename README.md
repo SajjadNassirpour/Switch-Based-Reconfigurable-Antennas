@@ -3,10 +3,10 @@
 These codes simulate the results of the paper in MATLAB. They include the following results:
 
 ### Real-valued channels based on Rayleigh fading model
-These codes evaluate the results that are depicted in Fig.5, Fig. 7, Fig. 8, and Table IV.
+These codes evaluate the results that are depicted in Fig.3, Fig. 4, and Table IV.
 
 ### Complex-valued channels based on ray-tracing model
-These codes represent the comparison results in Fig. 6 to compare the preformance of our method with latiice-based beamforming, WLLS, BIS, and digital beamforming. 
+These codes represent the comparison results in Fig. 5 to compare the preformance of our method with latiice-based beamforming, WLLS, BIS, and digital beamforming. 
 
 Note: In each folder, you need to run "Main_Running_File.m" to get the results.
 
